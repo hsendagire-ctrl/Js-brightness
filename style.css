@@ -1,0 +1,10 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: gray;
+}
+
+img {
+  width: 500px;
+}
